@@ -1,0 +1,44 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: #199bfb;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background-color: #199bfb;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.dataTables_filter label {
+    margin-right: 30px;
+}
+.dataTables_filter input {
+    padding: 7px 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.user-profile-img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #dbdbdb;
+    overflow: hidden;
+    border-radius: 8px;
+}
+.user-profile-img img {
+    width: 100%;
+    transform: translateY(-10px);
+}
+
+.arsip-table th {
+    background-color: #77c6ff;
+    color: black !important;
+}
+
+.pdfobject-container {
+    height: 674px;
+}
